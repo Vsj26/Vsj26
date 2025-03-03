@@ -19,7 +19,7 @@ const VSJ = {
     currentFocus: ["Operating Systems", "Cloud Architecture", "Advanced System Design"],
     communities: {
         founder: ["VSJ Community"],
-        member: ["F Society", "Deadnet Squad"]
+        member: ["F Society", "DeadNet Squad"]
     },
     lifePhilosophy: "Learning something new every day 📝"
 };
