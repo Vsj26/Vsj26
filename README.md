@@ -1,15 +1,15 @@
-# Hi there 👋 
+# Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=vinurasubhashitha&color=brightgreen&style=flat-square)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=70&lines=Hey+I'm+Your+Name;Software+Developer;UI/UX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=70&lines=Hey+I'm+Vinura+Subhashitha;Software+Developer;UI/UX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Repo_Size-35_KB-blue?style=for-the-badge&logo=github"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Author-Your_Name-red?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Author-Vinura+Subhashitha-red?style=for-the-badge"></a>
 </p>
 
 <div align="center">
@@ -31,7 +31,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=vinurasubhashitha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
       </td>
     </tr>
   </table>
@@ -39,19 +39,19 @@
 
 <div align="center">
   <h3>Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinurasubhashitha&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ## Hi there 👋
-- 😄 I'm Your Name
-- 🎓 I'm 25 years old
+- 😄 I'm **Vinura Subhashitha**
+- 🎓 I'm 18 years old
 - 💻 I'm interested in Full-Stack Development, Cloud Computing, and AI
-- 📚 I'm currently studying Computer Science at University Name
+- 📚 I'm currently studying Computer Science at **X**
 - 🌱 I'm also a member of Developer Communities & Tech Organizations
 - 👯 I'm looking to collaborate on web applications, mobile apps, and open-source projects
-- 📫 Email me via your.email@example.com
-- 📸 Follow me on Instagram [instagram.com/yourusername](https://instagram.com/yourusername)
-- 💬 Text me on WhatsApp +1234567890
+- 📫 Email me via vinurasubashitha2006@gmail.com
+- 📸 Follow me on Instagram [@vsj26](https://www.instagram.com/vinurasubhashitha)
+- 💬 Text me on WhatsApp +94 761245327
 
 <div align="center">
   <h2>🛠️ My Tech Stack</h2>
@@ -70,22 +70,22 @@
 ## Recent Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+  <a href="https://github.com/vinurasubhashitha/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinurasubhashitha&repo=project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+  <a href="https://github.com/vinurasubhashitha/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinurasubhashitha&repo=project2&theme=tokyonight" />
   </a>
 </div>
 
 ## 📈 GitHub Activity Graph
-[![Your Name's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/yourusername)
+[![Vinura Subhashitha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinurasubhashitha&theme=tokyo-night)](https://github.com/vinurasubhashitha)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/yourusername)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinurasubhashitha&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/vinurasubhashitha)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinurasubhashitha&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
